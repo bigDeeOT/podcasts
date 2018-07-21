@@ -1,0 +1,6 @@
+target 'PodcastCourseLBTA' do
+  use_frameworks!
+  pod 'Alamofire'
+  pod 'SDWebImage', '~> 4.0'
+  pod 'FeedKit', '7.0.1'
+end

@@ -1,0 +1,6 @@
+framework module Pods_PodcastCourseLBTA {
+  umbrella header "Pods-PodcastCourseLBTA-umbrella.h"
+
+  export *
+  module * { export * }
+}
